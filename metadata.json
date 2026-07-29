@@ -1,0 +1,6 @@
+{
+  "name": "Edu Master AI",
+  "description": "Platform Administrasi Guru Berbasis AI Terlengkap di Indonesia - Solusi lengkap untuk modul ajar, ATP/CP, jadwal, absensi, bank soal, penilaian, dan guru wali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
